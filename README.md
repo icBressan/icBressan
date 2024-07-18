@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-<img src="giphy.gif" width="250px" align = "right">
+<img src="giphy.gif" width="190px" align = "right">
 
   🐱‍💻 I'm Isabelle Bressan 🎀
 
