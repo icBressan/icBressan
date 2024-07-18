@@ -1,12 +1,10 @@
-<h1 align="center"> Hello World! 👋</h1>
-<p align="center">
-  <img src="giphy.gif" width="250px">
-</p>
+# Hello World! 👋
 
-<pre>
+<img src="giphy.gif" width="250px" align = "right">
+
   🐱‍💻 I'm Isabelle Bressan 🎀
 
-   📍 Brazil
-  📓 System Analysis and Development Student • FATEC
+   📍 Brazil </br>
+  📓 System Analysis and Development Student • FATEC </br>
   📚 System Development Technique • ETEC
-</pre>
+
