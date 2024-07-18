@@ -6,5 +6,5 @@
 
    📍 Brazil </br>
   📓 System Analysis and Development Student • FATEC </br>
-  📚 System Development Technique • ETEC
+  📚 Technician in System Development • ETEC
 
