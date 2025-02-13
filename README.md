@@ -6,10 +6,10 @@
 
 <img src="giphy.gif" width="30%" align = "right">
 
-  🐱‍💻 I'm Isabelle Bressan 🎀
+  🐱‍💻 Isabelle Cristine Bressan 🎀
 
-   📍 Brazil </br>
-  📓 System Analysis and Development Student • FATEC </br>
-  📚 Technician in System Development • ETEC </br>
-  🌌 Passionate about technology, astronomy, and learning!  </br>
+   📍 Brasil </br>
+  📓 Graduanda em Análise e Desenvolvimento de Sistemas • FATEC </br>
+  📚 Formação Técnica em Desenvolvimento de Sistemas• ETEC </br>
+  🌌 Tecnologia e Astronomia 🪐  </br> 
 
