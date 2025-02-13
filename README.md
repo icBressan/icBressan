@@ -8,7 +8,6 @@
 
   🐱‍💻 Isabelle Cristine Bressan 🎀
 
-   📍 Brasil </br>
   📓 Graduanda em Análise e Desenvolvimento de Sistemas • FATEC </br>
   📚 Formação Técnica em Desenvolvimento de Sistemas• ETEC </br>
   🌌 Tecnologia e Astronomia 🪐  </br> 
