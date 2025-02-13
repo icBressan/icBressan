@@ -9,6 +9,6 @@
   🐱‍💻 Isabelle Cristine Bressan 🎀
 
   📓 Graduanda em Análise e Desenvolvimento de Sistemas • FATEC </br>
-  📚 Formação Técnica em Desenvolvimento de Sistemas• ETEC </br>
+  📚 Formação Técnica em Desenvolvimento de Sistemas • ETEC </br>
   🌌 Tecnologia e Astronomia 🪐  </br> 
 
