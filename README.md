@@ -15,4 +15,5 @@
 ###
 
 ### Tecnologias 👾
-[![SkillIcons](https://skillicons.dev/icons?i=html,js,css,react,php,java,py,cpp,mysql,arduino,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,php,java,py,mysqlcpp)](https://skillicons.dev)<br/>
+
