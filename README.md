@@ -14,6 +14,6 @@
   
 ###
 
-### Tecnologias 👾
+### 👾 Tecnologias 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,php,java,py,mysqlcpp)](https://skillicons.dev)<br/>
 
