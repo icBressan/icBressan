@@ -7,7 +7,7 @@
 
 <img src="giphy.gif" width="30%" align = "right">
 
-### 🐱‍💻 Isabelle Bressan 🎀
+### 👩‍💻 Isabelle Bressan 🎀
 
   📓 Graduanda em Análise e Desenvolvimento de Sistemas • FATEC </br>
   📚 Formação Técnica em Desenvolvimento de Sistemas • ETEC </br>
